@@ -103,6 +103,24 @@
       <!-- end Skills -->
       {% endif %}
 
+      {% if site.resume_section_evaluation %}
+      <!-- begin evaluation -->
+      <section class="content-section">
+
+        <header class="section-header">
+          <h2>팀원 평가</h2>
+        </header>
+        {% for evaluation in site.data.evaluation %}
+        <div class="resume-item">
+          <h4 class="resume-item-details">{{ evaluation.member }}</h4>
+          <p class="resume-item-copy">{{ evaluation.description }}</p>
+        </div>
+        {% endfor %}
+
+      </section>
+      <!-- end evaluation -->
+      {% endif %}
+
       {% if site.resume_section_education %}
       <!-- begin Education -->
       <section class="content-section">
