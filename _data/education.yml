@@ -1,13 +1,9 @@
 # Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
-  awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
+- degree: 건축학과 학사
+  uni: 경희대학교
+  year: 2011 &mdash; 2019
 
-- degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
+- degree: <a href="https://event-us.kr/studyfork/event/16369" target="_blank">Android Architecture Pattern</a>
+  uni: StudyFork
+  year: 2020.5 &mdash; 2020.7
+  summary: Clean Architecture, android에서 주로 사용하는 design pattern 의 중요성을 알고자 참여했습니다.
