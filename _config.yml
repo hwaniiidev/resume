@@ -14,7 +14,7 @@ resume_name:                    "김신환"
 #resume_title:                   "VP of Global Communications"
 
 # used for the contact button in _layouts/resume.html
-resume_contact_email:           "sinhwan0211@naver.com"
+resume_contact_email:           "sinhwan0211@gmail.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
 resume_contact_telephone:       "555-7334"
