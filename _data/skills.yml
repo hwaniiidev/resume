@@ -1,12 +1,12 @@
 # Skills
-# Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+# Android
+- skill: Android
+  description: <ul class="resume-item-list" ><li>(상) Kotlin</li><li>(상) Java</li><li>(상) SQLite</li><li>(하) Gradle</li></ul>
 
-# Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+# Backend
+- skill: Backend
+  description: <ul class="resume-item-list" ><li>(중) python</li><li>(중) MySQL</li></ul>
 
-# Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+# DevOps
+- skill: DevOps
+  description: <ul class="resume-item-list" ><li>(상) Firebase (Auth, Firestore, Storage, Crashlytics, Test Lab 등)</li><li>(중) GCP (big query, app engine, data store)</li><li>(하) Maven</li></ul>
