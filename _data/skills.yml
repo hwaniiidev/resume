@@ -1,12 +1,12 @@
 # Skills
 # Android
 - skill: Android
-  description: <ul class="resume-item-list" ><li><span style=”color:#FF0000;">(상)</span> Kotlin</li><li><span style=”color:#FF0000;">(상)</span> Java</li><li><span style=”color:#FF0000;">(상)</span> SQLite</li><li><span style=”color:#38761d;">(하)</span> Gradle</li></ul>
+  description: <ul class="resume-item-list" ><li><span style=color:#FF0000>(상)</span> Kotlin</li><li><span style=color:#FF0000>(상)</span> Java</li><li><span style=color:#FF0000>(상)</span> SQLite</li><li><span style=color:#38761d>(하)</span> Gradle</li></ul>
 
 # Backend
 - skill: Backend
-  description: <ul class="resume-item-list" ><li><span style=”color:#e69138;">(중)</span> python</li><li><span style=”color:#e69138;">(중)</span> MySQL</li></ul>
+  description: <ul class="resume-item-list" ><li><span style=color:#e69138>(중)</span> python</li><li><span style=color:#e69138>(중)</span> MySQL</li></ul>
 
 # DevOps
 - skill: DevOps
-  description: <ul class="resume-item-list" ><li><span style=”color:#FF0000;">(상)</span> Firebase (Auth, Firestore, Storage, Crashlytics, Test Lab 등)</li><li><span style=”color:#e69138;">(중)</span> GCP (big query, app engine, data store)</li><li><span style=”color:#38761d;">(하)</span> Maven</li></ul>
+  description: <ul class="resume-item-list" ><li><span style=color:#FF0000>(상)</span> Firebase (Auth, Firestore, Storage, Crashlytics, Test Lab 등)</li><li><span style=color:#e69138>(중)</span> GCP (big query, app engine, data store)</li><li><span style=color:#38761d>(하)</span> Maven</li></ul>
