@@ -3,7 +3,7 @@
   uni: 경희대학교
   year: 2011 &mdash; 2019
 
-- degree: <a href="https://event-us.kr/studyfork/event/16369" target="_blank">Android Architecture Pattern</a>
+- degree: <a style=color:#0019ff href="https://event-us.kr/studyfork/event/16369" target="_blank">Android Architecture Pattern</a>
   uni: StudyFork
   year: 2020.5 &mdash; 2020.7
   summary: Clean Architecture, android에서 주로 사용하는 design pattern 의 중요성을 알고자 참여했습니다.
