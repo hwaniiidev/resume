@@ -24,7 +24,7 @@ resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334
 display_header_contact_info:    "false"
 
 resume_header_intro: "<p>팀원들과의 의사소통을 가장 중요시하며 Android 개발을 직무로
-                         삼고있는 회사원 <br>‘김신환’</br> 입니다. 개인이 하고 싶은 개발 보다는
+                         삼고있는 회사원 <b><i>‘김신환’</i></b> 입니다. 개인이 하고 싶은 개발 보다는
                          기업에 이익이 되는 개발을 하고 있습니다.
                          또한 개발 내용을 문서화 하는 것을 중요시하며 문서화에 능통합니다.
                          제 능력의 한계를 두지 않으며 언제든 새로운 영역을 탐구할,
