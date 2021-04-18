@@ -2,12 +2,12 @@
 # Abilities
 # Organizational leadership
 - ability: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+  description: <ul class="resume-item-list" ><li>사내 서비스 정체성 확립을 위한 임원진 회의 주최 및 진행 (2020.9)</li><li>사내 개발자들을 위한 의사소통 소모임 주최 및 진행 (2020.10 ~ )</li><li>로플랫 캐시플레이스 / 개발 파트(2명) 리딩 (2021.1 ~ )</li></ul>
 
 # Communications strategy
-- skill: Communications strategy
+- ability: Communications strategy
   description: Content and marketing strategy,
 
 # Digital content development and creation
-- skill: Digital content development and creation
+- ability: Digital content development and creation
   description: Copy writing, graphic design, web design, front-end web development, print design
