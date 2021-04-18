@@ -2,7 +2,9 @@
 <html>
 
   {% include head.html %}
-
+  <style type="text/css">
+  .glanlink {color: #0019ff;}
+  </style>
   <body class="theme-{% if site.resume_theme %}{{ site.resume_theme }}{% endif %}">
 
     <div class="wrapper" itemscope itemtype="http://schema.org/Person">
@@ -92,9 +94,9 @@
         <header class="section-header">
           <h2>기술</h2>
         </header>
-        <h6 style=”color:#FF0000">상 : 어떠한 기능도 구현할 수 있으며 현업에 바로 투입될 수 있는 수준</h6>
-        <h6 style=”color:#e69138">중 : 기존 코드를 유지 보수하며 개발 / 운영 할 수 있는 수준</h6>
-        <h6 style=”color:#38761d">하 : 문제의 원인을 파악하기 코드를 읽고 이해할 수 있는 수준</h6>
+        <p style=”color:#FF0000">상 : 어떠한 기능도 구현할 수 있으며 현업에 바로 투입될 수 있는 수준</p>
+        <p style=”color:#e69138">중 : 기존 코드를 유지 보수하며 개발 / 운영 할 수 있는 수준</p>
+        <p style=”color:#38761d">하 : 문제의 원인을 파악하기 코드를 읽고 이해할 수 있는 수준</p>
 
         {% for skill in site.data.skills %}
         <div class="resume-item">
@@ -161,7 +163,7 @@
         </header>
         {% for activity in site.data.activity %}
         <div class="resume-item">
-          <h5 class="resume-item-details">{{ activity.description }}</h5>
+          <p class="resume-item-details">{{ activity.description }}</p>
         </div>
         {% endfor %}
 
