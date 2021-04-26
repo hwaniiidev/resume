@@ -23,12 +23,12 @@ resume_contact_address:         "..."
 resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>팀원들과의 <strong>의사소통</strong>을 가장 중요시하며 Android 개발을 직무로
-                         삼고있는 회사원 <strong><i>‘김신환’</i></strong> 입니다. 개인이 하고 싶은 개발 보다는
-                         <strong>기업에 이익이 되는 개발</strong>을 하고 있습니다.
-                         또한 개발 내용을 문서화 하는 것을 중요시하며 <strong>문서화에 능통</strong>합니다.
-                         제 <strong>능력의 한계를 두지 않으며</strong> 언제든 새로운 영역을 탐구할,
-                         개척할 준비가 되어 있습니다.</p>"
+#resume_header_intro: "<p>팀원들과의 <strong>의사소통</strong>을 가장 중요시하며 Android 개발을 직무로
+#                         삼고있는 회사원 <strong><i>‘김신환’</i></strong> 입니다. 개인이 하고 싶은 개발 보다는
+#                         <strong>기업에 이익이 되는 개발</strong>을 하고 있습니다.
+#                         또한 개발 내용을 문서화 하는 것을 중요시하며 <strong>문서화에 능통</strong>합니다.
+#                         제 <strong>능력의 한계를 두지 않으며</strong> 언제든 새로운 영역을 탐구할,
+#                         개척할 준비가 되어 있습니다.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -38,12 +38,13 @@ resume_looking_for_work:        "yes"
 
 # Decide which sections to use
 # comment out to hide
-resume_section_experience:      true
-resume_section_education:       true
-resume_section_ability:         true
-resume_section_skills:          true
-resume_section_evaluation:      true
-resume_section_activity:        true
+resume_section_experience:      false
+resume_section_education:       false
+resume_section_ability:         false
+resume_section_skills:          false
+resume_section_evaluation:      false
+resume_section_activity:        false
+
 resume_section_projects:        false
 resume_section_recognition:     false
 resume_section_links:           false
